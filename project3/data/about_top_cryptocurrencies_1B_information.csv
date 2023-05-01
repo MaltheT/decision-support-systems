@@ -1,0 +1,84 @@
+name;code;price;market_cap;circulating_supply;limit_supply;basic_information;initial_release;block_reward;block_time_sec;block_size_Mb;basic_project;specifics;Kaggle_competitions
+Bitcoin;BTC;40489.76;7.68414E+11;19008968 BTC;21000000;https://en.wikipedia.org/wiki/Bitcoin;2009;6.25;600;2;Bitcoin;the first cryptocurrency;G-Research Crypto Forecasting
+Ethereum;ETH;3028.07;3.6361E+11;120337497 ETH;;https://en.wikipedia.org/wiki/Ethereum;2015;;;;Ethereum;;G-Research Crypto Forecasting
+Tether;USDT;1;82561384745;82534930597 USDT;;;;;;;;;
+Binance Coin;BNB;402.39;66313363191;165116761 BNB;;https://www.binance.com/en;2017;;;;;payments on the exchange Binance;G-Research Crypto Forecasting
+USD Coin;USDC;0.9999;50760326731;50775064050 USDC;;;;;;;;;
+XRP;XRP;0.708;34041837393;48135209660 XRP;;;;;;;XRP (Ripple);;G-Research Crypto Forecasting
+Solana;SOL;102.87;33642677824;327952298 SOL;;;;;;;;;
+Cardano;ADA;0.955;32104983792;33739028516 ADA;;https://en.wikipedia.org/wiki/Cardano_(blockchain_platform);2017;;;;;;
+Terra;LUNA;86.39;30594787585;354839878 LUNA;;;;;;;;;
+Avalanche;AVAX;74.95;20044903116;268293631 AVAX;;;;;;;;;
+Dogecoin;DOGE;0.1402;18606762673;132670764300 DOGE;unlimited;https://en.wikipedia.org/wiki/Dogecoin;2013;10000;60;;Bitcoin;;G-Research Crypto Forecasting
+Binance USD;BUSD;0.9998;17824770142;17828467031 BUSD;;;;;;;;;
+Polkadot;DOT;17.74;17524509445;987579315 DOT;;;;;;;;;
+TerraUSD;UST;1;16746356226;16737949535 UST;;;;;;;;;
+Shiba Inu;SHIB;0.00002306;12659764032;549063278876302 SHIB;;;;;;;;;
+Wrapped Bitcoin;WBTC;40487.91;11171810170;275930 WBTC;;;;;;;;;
+Polygon;MATIC;1.36;10633421479;7808492081 MATIC;;;;;;;;;
+Cronos;CRO;0.4095;10344748734;25263013692 CRO;;;;;;;;;
+NEAR Protocol;NEAR;15.34;10221508104;666163179 NEAR;;;;;;;;;
+Dai;DAI;0.9991;9255273961;9263767071 DAI;;;;;;;;;
+Litecoin;LTC;104.71;7334746706;70047019 LTC;84000000;https://en.wikipedia.org/wiki/Litecoin ;2011;12.5;150;;Bitcoin;;G-Research Crypto Forecasting
+Cosmos;ATOM;24.94;7140656288;286370297 ATOM;;;;;;;;;
+Chainlink;LINK;14.07;6570505732;467009550 LINK;;;;;;;;;
+Uniswap;UNI;9.22;6356651328;689094248 UNI;;;;;;;;;
+TRON;TRX;0.0594;6030803087;101663481647 TRX;;https://en.wikipedia.org/wiki/Tron_(cryptocurrency);2018;;;;Ethereum;payments in games etc.;G-Research Crypto Forecasting
+FTX Token;FTT;42.24;5782182457;137173730 FTT;;;;;;;;;
+Bitcoin Cash;BCH;302.96;5759408709;19033556 BCH;21000000;https://en.wikipedia.org/wiki/Bitcoin_Cash;2017;6.25;600;32;Bitcoin;;G-Research Crypto Forecasting
+UNUS SED LEO;LEO;5.83;5557425944;953954130 LEO;;;;;;;;;
+Ethereum Classic;ETC;37.65;5034115124;134140494 ETC;;https://en.wikipedia.org/wiki/Ethereum_Classic ;2015;;;;Ethereum;;G-Research Crypto Forecasting
+Algorand;ALGO;0.7182;4808059889;6709253811 ALGO;;;;;;;;;
+Stellar;XLM;0.1915;4724109737;24760847515 XLM;;https://en.wikipedia.org/wiki/Stellar_(payment_network);2014;;;;XRP (Ripple);;G-Research Crypto Forecasting
+Monero;XMR;224.92;4073265465;18106018 XMR;unlimited;https://en.wikipedia.org/wiki/Monero;2014;0.67;120;;Bytecoin;high confidentiality;G-Research Crypto Forecasting
+Decentraland;MANA;2.13;3907764019;1842491569 MANA;;;;;;;;;
+Hedera;HBAR;0.1989;3880177499;19565356901 HBAR;;;;;;;;;
+VeChain;VET;0.05984;3837438718;64315576989 VET;;;;;;;;;
+Internet Computer;ICP;16.4;3620727514;221309849 ICP;;;;;;;;;
+Filecoin;FIL;18.97;3578981432;189157354 FIL;;;;;;;;;
+Elrond;EGLD;154.24;3359293246;21779175 EGLD;;;;;;;;;
+The Sandbox;SAND;2.71;3143525253;1157908752 SAND;;;;;;;;;
+ApeCoin;APE;11.17;3098559831;277500000 APE;;;;;;;;;
+Theta Network;THETA;3.04;3036987232;1000000000 THETA;;;;;;;;;
+Fantom;FTM;1.15;2929942863;2545006273 FTM;;;;;;;;;
+Klaytn;KLAY;1.01;2820117344;2781777202 KLAY;;;;;;;;;
+Axie Infinity;AXS;45.75;2786435023;60907500 AXS;;;;;;;;;
+Tezos;XTZ;3.02;2688926410;890738048 XTZ;;;;;;;;;
+THORChain;RUNE;7.94;2599436588;330688061 RUNE;;;;;;;;;
+Waves;WAVES;22.5;2429012536;107977492 WAVES;;;;;;;;;
+Helium;HNT;20.58;2372442285;115290029 HNT;;;;;;;;;
+Aave;AAVE;162.61;2224510286;13680315 AAVE;;;;;;;;;
+PancakeSwap;CAKE;7.84;2215624054;282645811 CAKE;;;;;;;;;
+EOS;EOS;2.22;2187510125;986626748 EOS;;https://en.wikipedia.org/wiki/EOS.IO;2017;;0.5;;;;G-Research Crypto Forecasting
+Zcash;ZEC;147.54;2087221053;14146438 ZEC;;;;;;;;;
+Flow;FLOW;5.56;1997499148;358986557 FLOW;;;;;;;;;
+IOTA;MIOTA;0.6737;1872667236;2779530283277761 MIOTA;limit reached;https://en.wikipedia.org/wiki/IOTA_(technology);2016;0;;;;it designed for the Internet of things (IoT);G-Research Crypto Forecasting
+Maker;MKR;1870.82;1828967712;977631 MKR;limit 1M reached;https://makerdao.com/en/;2017;0;;;Ethereum;decentralized virtual assets, the value of which is directly tied to the price of the material world, such as real currency, non-ferrous metals, etc.;G-Research Crypto Forecasting
+Convex Finance;CVX;31.5;1799843448;57131608 CVX;;;;;;;;;
+eCash;XEC;0.00009085;1728902741;19029967173313 XEC;;;;;;;;;
+The Graph;GRT;0.3656;1724244863;4715735200 GRT;;;;;;;;;
+BitTorrent-New;BTT;0.000001819;1685687392;926521428571000 BTT;;;;;;;;;
+Bitcoin SV;BSV;81.7;1554631771;19029477 BSV;;;;;;;;;
+KuCoin Token;KCS;19.17;1536035313;80118638 KCS;;;;;;;;;
+Stacks;STX;1.14;1496243218;1307890017 STX;;;;;;;;;
+STEPN;GMT;2.48;1486038645;600000000 GMT;;;;;;;;;
+Zilliqa;ZIL;0.1155;1459134478;12637893632 ZIL;;;;;;;;;
+Huobi Token;HT;9.32;1451485608;155673013 HT;;;;;;;;;
+Harmony;ONE;0.1205;1439209311;11940185419 ONE;;;;;;;;;
+Neo;NEO;20.04;1413346688;70538831 NEO;;;;;;;;;
+Gala;GALA;0.1989;1387588952;6977205436 GALA;;;;;;;;;
+Quant;QNT;114.69;1384612468;12072738 QNT;;;;;;;;;
+Celo;CELO;3.18;1378066702;433213075 CELO;;;;;;;;;
+Enjin Coin;ENJ;1.54;1345917300;874674706 ENJ;;;;;;;;;
+TrueUSD;TUSD;0.9996;1345561865;1346044710 TUSD;;;;;;;;;
+Chiliz;CHZ;0.2236;1341854498;6000378958 CHZ;;;;;;;;;
+Kusama;KSM;157.07;1330406283;8470098 KSM;;;;;;;;;
+Nexo;NEXO;2.25;1259774252;560000011 NEXO;;;;;;;;;
+Mina;MINA;2.65;1203717085;455029457 MINA;;;;;;;;;
+Loopring;LRC;0.8889;1181961612;1329675414 LRC;;;;;;;;;
+OKB;OKB;18.48;1107028837;60000000 OKB;;;;;;;;;
+Dash;DASH;102.87;1093739158;10670582 DASH;;;;;;;;;
+Basic Attention Token;BAT;0.6992;1046690124;1499204735 BAT;;;;;;;;;
+Curve DAO Token;CRV;2.2;1037045312;472211772 CRV;;;;;;;;;
+Arweave;AR;30.57;1016909465;33394701 AR;;;;;;;;;
+Neutrino USD;USDN;0.9772;1001501673;1025293991 USDN;;;;;;;;;
